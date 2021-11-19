@@ -4,3 +4,4 @@ joblib
 datetime
 fastapi
 requests
+seaborn
