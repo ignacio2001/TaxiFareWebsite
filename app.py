@@ -1,5 +1,4 @@
 import streamlit as st
-from  programms.something import *
 import numpy as np
 import pandas as pd
 import seaborn as sns
