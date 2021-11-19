@@ -1,3 +1,6 @@
 streamlit
 streamlit_folium
 joblib
+datetime
+fastapi
+requests
